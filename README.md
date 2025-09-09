@@ -1,7 +1,7 @@
 # Marketing Mix Modelling for Product Promotion
 
 ## Project Description
-This project applies **Marketing Mix Modelling (MMM)** to analyze how different advertising channels drive product sales. By comparing Linear Regression, Ridge, and Gradient Boosting models, we estimate channel contributions, capture diminishing returns, and provide **data-driven budget allocation strategies**.  
+This project applies **Marketing Mix Modelling (MMM)** to analyse how different advertising channels drive product sales. By comparing Linear Regression, Ridge, and Gradient Boosting models, we estimate channel contributions, capture diminishing returns, and provide data-driven budget allocation strategies.  
 
 ---
 
@@ -11,7 +11,7 @@ This project applies **Marketing Mix Modelling (MMM)** to analyze how different 
 ---
 
 ## Aim
-To evaluate the effectiveness of marketing channels in driving sales and to optimize advertising spend to maximize **ROI**.  
+To evaluate the effectiveness of marketing channels in driving sales and to optimise advertising spend to maximize **ROI**.  
 
 ---
 
